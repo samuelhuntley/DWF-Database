@@ -73,3 +73,9 @@ The state of this CVE, valid states include:
 This is a short title for the issue, e.g. "Product Name v1.2.3 buffer overflow flaw in foo()".
 
 This field is optional but strongly reccomended as part of the CNA feedback process. 
+
+## A note on the DWF Project data and the Apache License
+
+It is the intent of the DWF Project that the data contained within the DWF-Database and the DWF-Database-Artifacts repositories be widely used (in licensing terms "redistributed") by vendors, security practitioners and any interested party. However we would ask that you abide by the terms of the Apache License which primarily require a copy of the license to be provided (so e.g. "Our database may contain content redistributed from the DWF Project under the Apache License, click here for a copy") and any altered data (e.g. a "Description" of a vulnerability) to be labled as altered (e.g. "This description has been altered from the original provided by the DWF"). 
+
+
