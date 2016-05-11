@@ -9,17 +9,23 @@ The CVE ID assigned for this issue.
 
 This field is mandatory.
 
+### DATE_REQUESTED
+
+The date this CVE was requested privately or publicly. 
+
+This field is mandatory as part of the CNA feedback process. This date is assumed to fall in the UTC timezone for the purposes of when midnight is.
+
 ### DATE_ASSIGNED
 
 The date this CVE was assigned privately or publicly. 
 
-This field is mandatory.
+This field is mandatory as part of the CNA feedback process. This date is assumed to fall in the UTC timezone for the purposes of when midnight is.
 
 ### DATE_PUBLIC
 
 The date this CVE was made public. 
 
-This field is optional but strongly reccomended as part of the CNA feedback process. 
+This field is mandatory as part of the CNA feedback process. This date is assumed to fall in the UTC timezone for the purposes of when midnight is.
 
 ### REQUESTER
 
