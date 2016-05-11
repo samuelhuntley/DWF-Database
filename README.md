@@ -70,7 +70,7 @@ The state of this CVE, valid states include:
 
 * RESERVED
 * PUBLIC
-* CONFRIMED
+* CONFIRMED
 * REJECTED
 * REPLACED (see REPLACED_BY field for more details)
 
