@@ -11,19 +11,19 @@ This field is mandatory.
 
 ### DATE_REQUESTED
 
-The date this CVE was requested privately or publicly. 
+The date this CVE was requested privately or publicly. Format is ISO 8601, timezone MUST be UTC, it can either be just a date ("2016-04-16"), or a date and time (2016-05-015T03:11:58Z).
 
 This field is mandatory as part of the CNA feedback process. This date is assumed to fall in the UTC timezone for the purposes of when midnight is.
 
 ### DATE_ASSIGNED
 
-The date this CVE was assigned privately or publicly. 
+The date this CVE was assigned privately or publicly. Format is ISO 8601, timezone MUST be UTC, it can either be just a date ("2016-04-16"), or a date and time (2016-05-015T03:11:58Z).
 
 This field is mandatory as part of the CNA feedback process. This date is assumed to fall in the UTC timezone for the purposes of when midnight is.
 
 ### DATE_PUBLIC
 
-The date this CVE was made public. 
+The date this CVE was made public. Format is ISO 8601, timezone MUST be UTC, it can either be just a date ("2016-04-16"), or a date and time (2016-05-015T03:11:58Z).
 
 This field is mandatory as part of the CNA feedback process. This date is assumed to fall in the UTC timezone for the purposes of when midnight is.
 
