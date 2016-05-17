@@ -5,4 +5,4 @@
 "DWF-2016-89001","2016-03-09","2016-03-09","2016-02-09","mcatanzaro@gnome.org","kurt@seifried.org","",1,"","LIVE",""
 "DWF-2016-91000","2016-03-17","2016-03-17","2016-03-21","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","LIVE","Bezeq firmware for Negear DGN2200 - multiple vulnerabilities"
 "DWF-2016-91001","2016-03-17","2016-03-17","2016-03-21","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","LIVE","ASUS driver unsafe operation"
-"CVE-2016-1000000","2016-05-16","2016-05-16",,"bmartin@tenable.com","kurt@seifried.org",,1,"","RESERVED",""
+"CVE-2016-1000000","2016-05-16","2016-05-16","2016-05-17","bmartin@tenable.com","kurt@seifried.org",,2,"2016-05-17","PUBLIC","Ipswitch WhatsUp Gold 16.4.1 WrFreeFormText.asp sUniqueID Parameter Blind SQL Injection"
