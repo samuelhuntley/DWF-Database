@@ -1,4 +1,4 @@
-"DWF_ID","DATE_REQUESTED","DATE_ASSIGNED","DATE_PUBLIC","REQUESTER","ASSIGNER","REPLACED_BY","VERSION","LAST_UPDATE","STATE","TITLE"
+"CVE_ID","DATE_REQUESTED","DATE_ASSIGNED","DATE_PUBLIC","REQUESTER","ASSIGNER","REPLACED_BY","VERSION","LAST_UPDATE","STATE","TITLE"
 "DWF-2015-77000","2015-07-09","2015-07-09","2015-07-09","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file upload vulnerability in mailcwp v1.99 wordpress plugin"
 "DWF-2015-77001","2015-07-10","2015-07-10","2015-07-10","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file upload vulnerability in fast-image-adder v1.1 Wordpress plugin"
 "DWF-2015-77002","2015-07-11","2015-07-11","2015-07-11","larry0@me.com","larry0@me.com","","1","","LIVE","Open Proxy in filedownload v1.4 wordpress plugin"
